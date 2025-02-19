@@ -48,6 +48,27 @@
 ![螢幕擷取畫面 2025-02-19 174327](https://github.com/user-attachments/assets/0a627068-d02f-47f2-a273-2fd2670abe0e)
 
 ### 影像資料圖表
+#### 四分類(合格、不合格、非油品、水)- 3D
+![圖片4](https://github.com/user-attachments/assets/fc3e1952-bd08-4f59-90b5-31e573d8e001)
+#### 四分類(合格、不合格、非油品、水)- 2D
+![圖片5](https://github.com/user-attachments/assets/e66f0ee5-6d3d-4514-9a27-3366168e458c)
+#### 二分類(合格、不合格)- 3D
+![圖片6](https://github.com/user-attachments/assets/f895fe7f-3d69-4fc5-849e-cd2dd6d1a59a)
+#### 不合格
+![圖片7](https://github.com/user-attachments/assets/ec4aece1-25bf-4142-a0a6-a30bc5646788)
+#### 同一桶油的合格與不合格
+![螢幕擷取畫面 2025-02-19 175918](https://github.com/user-attachments/assets/df80a36b-421e-4e9e-b402-318438de9731)
+![螢幕擷取畫面 2025-02-19 175927](https://github.com/user-attachments/assets/a408f0f9-b43e-49bb-ac17-17b63e4fdbb3)
+#### PCA 降維
+![圖片8](https://github.com/user-attachments/assets/702c7f93-bb08-4583-99e3-b7f5d16c15c0)
+#### PLS 降維
+![圖片9](https://github.com/user-attachments/assets/0b99f421-aa81-4dae-a10c-e00f92f9198f)
+#### t-SNE 降維
+![圖片10](https://github.com/user-attachments/assets/2c8d7820-ad1d-40a2-bdd1-0ed2d1bb1a5f)
+#### 異常值
+每個資料的異常值都不少，這些數據不屬於常態分佈
+![圖片11](https://github.com/user-attachments/assets/5a4963f9-318f-4b56-82c4-93f86986e76b)
+![圖片12](https://github.com/user-attachments/assets/dc821d36-49b2-40bb-8665-1f61102764c7)
 
 ## 模型訓練
 ### 捲積神經網路(CNN)
