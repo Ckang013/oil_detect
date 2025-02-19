@@ -67,6 +67,7 @@
 ![圖片10](https://github.com/user-attachments/assets/2c8d7820-ad1d-40a2-bdd1-0ed2d1bb1a5f)
 #### 異常值
 每個資料的異常值都不少，這些數據不屬於常態分佈
+
 ![圖片11](https://github.com/user-attachments/assets/5a4963f9-318f-4b56-82c4-93f86986e76b)
 ![圖片12](https://github.com/user-attachments/assets/dc821d36-49b2-40bb-8665-1f61102764c7)
 
