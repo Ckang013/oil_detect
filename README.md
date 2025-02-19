@@ -5,7 +5,8 @@
 1. 樹莓派
 2. Pi camera
 3. IR camera
-4. sensor (led、ir led)
+4. 光源(led、ir led)
+5. sensor (光譜、顏色)
 
 #### 模型訓練:
 1. CNN + MobileNet
