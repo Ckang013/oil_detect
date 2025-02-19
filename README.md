@@ -99,3 +99,9 @@
 這部分是要連續抽十桶樣本，當中包含水、合格油品、不合格油品、非油品，透過這樣交替來確認能不能夠正常辨識
 #### 水
 ![圖片16](https://github.com/user-attachments/assets/1babb088-a93c-4392-b797-a4d5daa231d7)
+#### 合格油品
+![圖片18](https://github.com/user-attachments/assets/c05d0e8a-b529-4758-b25d-46180cbdfe66)
+#### 不合格油品
+![圖片19](https://github.com/user-attachments/assets/ad8bd3f6-748c-42b2-ba0b-c40e3b266504)
+#### 非油品(綠茶)
+![圖片17](https://github.com/user-attachments/assets/b7d91da1-f9bb-45d6-bc06-3473a371593d)
