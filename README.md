@@ -15,11 +15,12 @@
 ### 光譜數據 Spectral data
 起初的做法是用 Arduino 結合具有 I2C 功能的光譜感測器和顏色感測器，光譜感測器給出的數據是波長介於380~940之間共6個channel的數據，而顏色感測器則是RGB三個數據，將這些設備組合起來，做成一個檢測與資料蒐集裝置。
 資料蒐集是模型訓練中最花時間也最要求的部分，當一個模型餵進去訓練的資料是錯誤或有異常的，產出的結果就會很糟沒有參考性，也不能部署上線，而液體資料的蒐集又更難，相較於固體的資料，液體有變質的問題，因此同一筆樣本是沒有辦法做到二次蒐集的。
-![螢幕擷取畫面 2025-02-19 161618](https://github.com/user-attachments/assets/d77e8128-8dc0-47a2-aa6f-b491c45ca4ee)
-![螢幕擷取畫面 2025-02-19 161646](https://github.com/user-attachments/assets/a4d0c1a4-e27c-459e-bcd0-41c1bde97ba6)
+
+![螢幕擷取畫面 2025-02-19 164110](https://github.com/user-attachments/assets/dee1b468-4dec-4804-b52f-cbac47410f18)
 
 ### 影像資料 Image data
 因為發現光譜數據要做到偵測效果不是很好，能力有限，因此改為使用 Raspberry Pi 結合 camera 的方式，透過影像資料來去做偵測，就開始搭配各種光源，針對各種不同的液體做資料蒐集
+
 ![圖片1](https://github.com/user-attachments/assets/5b42dedd-7a47-4169-843f-914ddcaccd78)
 ![圖片2](https://github.com/user-attachments/assets/1d3ac22a-2411-4ca2-86ab-81bfe6e62a54)
 
