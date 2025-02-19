@@ -1,13 +1,13 @@
 # oil_detect
 油品檢測裝置，檢測流過玻璃管的液體是合格油品、不合格油品、非油品哪一個，再根據結果讓機台做出應對的動作
 
-硬體設備:
+#### 硬體設備:
 1. 樹莓派
 2. Pi camera
 3. IR camera
 4. sensor (led、ir led)
 
-模型訓練:
+#### 模型訓練:
 1. CNN + MobileNet
 2. Transfer Learning + XGBoost
 
