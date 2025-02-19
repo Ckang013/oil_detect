@@ -83,4 +83,18 @@
 #### 四分類模型給出的重要特徵Top10
 ![下載](https://github.com/user-attachments/assets/dc89ddae-c70d-4bf6-a303-eca6660450a5)
 
-## 模型驗證與部署
+## 模型驗證
+### 使用模型訓練以外的資料
+#### 蔓越莓汁
+會被正確分類到「非油品」
+
+![圖片14](https://github.com/user-attachments/assets/198a6b3a-a2ce-4b47-b8fa-a4b23f88577f)
+#### 啤酒
+不會被分類到「非油品」，會被分類到「不合格油品」
+
+![圖片15](https://github.com/user-attachments/assets/67504853-ab4b-4128-ab1e-33dec7cbffff)
+
+### 連續抽樣本交替驗證
+這部分是要連續抽十桶樣本，當中包含水、合格油品、不合格油品、非油品，透過這樣交替來確認能不能夠正常辨識
+#### 水
+![圖片16](https://github.com/user-attachments/assets/1babb088-a93c-4392-b797-a4d5daa231d7)
