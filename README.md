@@ -95,7 +95,7 @@
 
 ![圖片15](https://github.com/user-attachments/assets/67504853-ab4b-4128-ab1e-33dec7cbffff)
 
-### 連續抽樣本交替驗證
+### 成果展示
 這部分是要連續抽十桶樣本，當中包含水、合格油品、不合格油品、非油品，透過這樣交替來確認能不能夠正常辨識
 #### 水
 ![圖片16](https://github.com/user-attachments/assets/1babb088-a93c-4392-b797-a4d5daa231d7)
